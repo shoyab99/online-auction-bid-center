@@ -72,21 +72,3 @@ Blockchain integration for secure transactions
 Mobile application support
 Contributors
 Shoyab – Backend Developer
-License
-This project is licensed under the MIT License.
-
-
-
-
-
-
-
-
-
-
-
-Search
-
-Reason
-
-ChatGPT can make mistakes. Check important info.
